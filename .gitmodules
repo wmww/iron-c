@@ -1,0 +1,3 @@
+[submodule "define_evil"]
+	path = define_evil
+	url = git@github.com:wmww/define_EVIL.git
